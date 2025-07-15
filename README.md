@@ -9,9 +9,8 @@
 
 - 📫 Reach me: **afsheenahmedd@gmail.com**
 - 🔗 Website: [Your Website](https://yourwebsite.com)
-- ✈️ Project: [Airline Reservation System](https://yourprojectlink.com)
-- 💼 Portfolio: [Netlify](https://yourportfolio.netlify.app)
-- 🆕 Updated Portfolio: [Netlify](https://yourupdatedportfolio.netlify.app)
+- ✈️ Recent Project: [Airline Reservation System](https://airlinereservationsystem.runasp.net/)
+
 
 ---
 
