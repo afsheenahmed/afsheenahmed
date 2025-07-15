@@ -2,8 +2,9 @@
 <h3 align="center">A passionate backend developer from Pakistan</h3>
 
 <p align="center">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" width="300" />
-</p>
+  
+<script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.6.2/dist/dotlottie-wc.js" type="module"></script>
+<dotlottie-wc src="https://lottie.host/af08487b-5f07-4e26-a0ee-7f1ff60961b6/JBIgfpqWtd.lottie" style="width: 300px;height: 300px" speed="1" autoplay loop></dotlottie-wc>
 
 ---
 
