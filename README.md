@@ -2,9 +2,8 @@
 <h3 align="center">A passionate backend developer from Pakistan</h3>
 
 <p align="center">
-  
-<script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.6.2/dist/dotlottie-wc.js" type="module"></script>
-<dotlottie-wc src="https://lottie.host/af08487b-5f07-4e26-a0ee-7f1ff60961b6/JBIgfpqWtd.lottie" style="width: 300px;height: 300px" speed="1" autoplay loop></dotlottie-wc>
+  <img src="PASTE_RAW_URL_HERE" alt="Working woman illustration" width="300" />
+</p>
 
 ---
 
