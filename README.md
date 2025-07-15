@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Pakistan</h3>
 
 <p align="center">
-  <img src="PASTE_RAW_URL_HERE" alt="Working woman illustration" width="300" />
+  <img src="business-woman-working-laptop-office-vector-illustration-cartoon-style_1142-83018.jpg" alt="Working woman illustration" width="300" />
 </p>
 
 ---
@@ -17,9 +17,9 @@
 ### 🌐 Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/afsheenahmedd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="mailto:your-email@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<a href="mailto:afsheenahmedd@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
 </p>
 
 ---
