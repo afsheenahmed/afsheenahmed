@@ -1,4 +1,4 @@
-<h1 align="center">Assalam o Alaikum 👋, I'm Afsheen Ahmed</h1>
+<h2 align="center">Assalam o Alaikum 👋, I'm Afsheen Ahmed</h2>
 <h3 align="center">A passionate backend developer from Pakistan</h3>
 
 <p align="center">
@@ -41,13 +41,13 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=afsheenahmed&show_icons=true&theme=rose_pine&locale=en" alt="GitHub stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=default" alt="GitHub streak" />
+  <img src="https://streak-stats.vercel.app/?user=afsheenahmed&theme=pink&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&layout=compact" alt="Top Languages" />
-</p
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afsheenahmed&layout=compact&theme=rose_pine" alt="Top Languages" />
+</p>
+
